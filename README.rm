@@ -1,8 +1,8 @@
 manyusersconnexion
 ==================
 1- Create users in your server.
-2- Create a CSV file in which you put the username and password of each user, separated by "," (See "users.csv" file)
-3- Open "Login_Intranet.jmx" with Jmetter.
+2- Create a CSV file in which you put the username and password of each user, separated by "," (See for example "users.csv" file)
+3- Open "Login_Intranet.jmx" with Jmeter.
 4- Set up your prefefined values, including :
     - user_csv_file : path of the created CSV file that contains users.   
     - VU_Number : number of users that will connect at the same time.
